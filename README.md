@@ -21,7 +21,7 @@
 ## `> Who am I`
 
 ```text
-name     : Marcus Antônio (or just Marcus)
+name     : Marcus Antônio
 studying : Computer Engineering 🎓
 doing    : Learning & creating 👨‍💻
 ```
