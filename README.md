@@ -18,7 +18,7 @@
 
 <br/>
 
-## `> whoami`
+## `> Who am I`
 
 ```text
 name     : Marcus Antônio (or just Marcus)
@@ -96,12 +96,6 @@ doing    : Learning & creating 👨‍💻
 </div>
 
 <br/>
-
-## `> trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Markhtus&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies" />
 
 </div>
 
